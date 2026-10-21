@@ -1,0 +1,7 @@
+[2026-10-21T00:02:08Z] === AST ITERATION 1 START | repo=aio-libs/aiohttp-admin sha=81ff53bc ===
+[2026-10-21T00:02:08Z] [iter=1] PHASE START: ast repo=aio-libs/aiohttp-admin sha=81ff53bc
+[2026-10-21T00:02:08Z] [iter=1] Building AST aggregate chunks
+[2026-10-21T00:02:48Z] [iter=1] AST chunks built count=1 triples=394783
+[2026-10-21T00:02:48Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/81ff53bcead274a7c5bbd00f46d0655f39a34a6b/.complete
+[2026-10-21T00:02:48Z] [iter=1] PHASE END: ast elapsed_s=40 elapsed_min=0.7
+[2026-10-21T00:02:48Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
